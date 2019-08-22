@@ -6,4 +6,4 @@ This repository is for showing how Git and GitHub work and practicing Git.
 
 A practice project for exploring Git features.
 
-Test text
+Test text more
