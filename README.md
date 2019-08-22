@@ -4,4 +4,4 @@ This repository is for showing how Git and GitHub work and practicing Git.
 
 ## Purpose
 
-Sample website with plenty of files for demos
+A practice project for exploring Git.
